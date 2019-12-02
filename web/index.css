@@ -1,0 +1,64 @@
+body{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.work-zone {
+    border: 5px solid #149a60;
+    border-radius: 15px;
+    margin: auto;
+    width: fit-content;
+    padding: 20px 30px;
+    background-color: #f5fff0;
+}
+
+.label-input {
+    font-weight: bold;
+    font-size: large;
+    color: #306b18;
+}
+
+.number_in{
+    text-align: center;
+}
+
+.radio{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.radio p {
+    margin: 10px 25px;
+    font-weight: bold;
+}
+
+.p_in{
+    text-align: right;
+}
+
+.p_out{
+    text-align: left;
+}
+
+.in{
+    text-align: right;
+}
+
+.number_out{
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.res-button {
+    font-weight: bold;
+    font-size: large;
+    background: #94ff42;
+    border-radius: 5px;
+    padding: 10px 30px;
+    border-color: #36af05;
+}
